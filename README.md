@@ -1,6 +1,8 @@
 # Cupid vs. The Chocolate Army
  A Laser Defender game made as a group project
 
+You can play it right [here](https://djinnalexio.itch.io/cupids-vs-the-chocolate-army).
+
 (From the Itch.io page)
 Authors: by Djinn Alexio, Greg-Cohen, Keita Takeda, JHolland
 
