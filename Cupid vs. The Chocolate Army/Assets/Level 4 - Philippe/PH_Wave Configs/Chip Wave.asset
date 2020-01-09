@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 617fca43d4ae23e439bb4efd73543d16, type: 3}
+  m_Name: Chip Wave
+  m_EditorClassIdentifier: 
+  EnemyPrefab: {fileID: 3751989386917970597, guid: 13da96553a201514392f3802437cccfa,
+    type: 3}
+  PathPrefab: {fileID: 6776896971959057948, guid: 514ce2c37cf8d3849a592a3d45f507ff,
+    type: 3}
+  SuicidePathPrefab: {fileID: 6776896971959057948, guid: b98e4dfb81c39fc418b064c45e621e10,
+    type: 3}
+  StartLoopPosition: 0
+  SpawnRate: 0.6
+  EnemyUnitCount: 15
+  MoveSpeed: 14.3
+  suicidal: 1
+  SuicideSpeedMultiplier: 1.2
+  SuicideLateralOffset: 18

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 617fca43d4ae23e439bb4efd73543d16, type: 3}
+  m_Name: Menthy Wave Right
+  m_EditorClassIdentifier: 
+  EnemyPrefab: {fileID: 1037362677983367108, guid: e501c7b2a05a3ca4d84be6d29ae8dd1c,
+    type: 3}
+  PathPrefab: {fileID: 1402413063899104252, guid: 12dbc496f8f77384f9ba9c4e481918b9,
+    type: 3}
+  SuicidePathPrefab: {fileID: 0}
+  StartLoopPosition: 0
+  SpawnRate: 1.2
+  EnemyUnitCount: 7
+  MoveSpeed: 23.8
+  suicidal: 0
+  SuicideSpeedMultiplier: 1
+  SuicideLateralOffset: 0

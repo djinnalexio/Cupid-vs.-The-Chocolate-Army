@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d7c4dae68b9ac9c46b15146fd90ef50e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mogena
+  fontNames:
+  - Mogena
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 179c19e82a9d9944e9ae9911e1c171d6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
